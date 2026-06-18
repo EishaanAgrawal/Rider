@@ -34,7 +34,7 @@
 
 ## Phase 6: Deployment
 
-* [ ] Dockerization
+* [x] Dockerization
 * [ ] CI/CD Pipeline
 * [ ] Cloud Deployment
 
